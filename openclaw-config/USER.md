@@ -2,11 +2,16 @@
 
 *Learn about the person you're helping. Update this as you go.*
 
-- **Name:** 
-- **What to call them:** 
+- **Name:** 阿敏
+- **What to call them:** 阿敏
 - **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Timezone:** UTC+9
+
+## Notes
+- 主要做 Crypto 量化交易
+- 偏好简洁直接有深度的回复
+- 常用 Python
+- 使用中文交流
 
 ## Context
 
